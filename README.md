@@ -1,9 +1,6 @@
-# Round32AutomaTest
-AutomaTest: Test Automation Training Practice Project in Round32
+🚀 AutomaTest: Test Automation Training Practice in Round32
 
-🚀 Automation Testing Training Practice
-
-📘 About This Project
+📘 About This Project "Round32AutomaTest"
 
 This repository is created as part of my Automation Testing Training Practice. 
 Each session includes a set of tasks that I implemented to strengthen my hands-on skills. 
